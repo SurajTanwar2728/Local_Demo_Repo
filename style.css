@@ -1,0 +1,9 @@
+p {
+  color: navy; /* Sets the text color to navy blue */
+  font-family: Arial, sans-serif; /* Defines the font */
+  font-size: 16px; /* Sets the text size */
+  text-align: justify; /* Aligns the text to both left and right margins */
+  text-indent: 30px; /* Indents the first line of the paragraph */
+  line-height: 1.5; /* Sets the spacing between lines */
+  margin-bottom: 1em; /* Adds space below each paragraph */
+}
